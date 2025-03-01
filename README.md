@@ -2,26 +2,22 @@
 # Hey there, I'm Ipek! 👋
 
 ## 🌱 About Me
-Hi! I'm Ipek, and I love working on **climate action, regenerative agriculture, and water projects**. My focus is on **safe water supply** and **carbon methodologies**, helping communities access clean water while making a positive impact on the planet.
+Hi! I'm Ipek, and I'm passionate about **climate action, sustainability, and data analysis**. My work focuses on **emission reduction quantification** and **carbon footprinting**, helping to drive impactful solutions for a cleaner, more sustainable world.
 
 ## 🌍 What I Do
-- 🚜 **Regenerative Farming** – Boosting **Soil Organic Carbon (SOC)** and improving soil health.
-- 💦 **Safe Water Projects** – Rehabilitating boreholes and improving access to clean water in multiple countries.
-- 🗺️ **GIS & Data Science** – Using mapping and analytics for smart decision-making.
-- 🌿 **Carbon Projects** – Developing projects under **Gold Standard & Verra** to drive sustainability.
+- 🌿🚜💦 **Carbon Projects** – Assessing **emission reduction potentials** in **regenerative agriculture, water supply, energy efficiency, and renewable energy projects**.
+- 🗺️ **GIS & Data Science** – Leveraging spatial analysis and data-driven insights for better decision-making.
 
 ## 🛠️ Tech & Tools I Use
-- **Coding:** Python, R (for data & mapping)
-- **GIS & Mapping:** QGIS, ArcGIS
-- **Climate & Carbon Standards:** Gold Standard, Verra
-- **Data Handling:** NetCDF, Pandas, Geopandas
-- **Collaboration:** VSCode, GitHub
+- **Programming & Data Science:** Python, R (for data analysis & visualization)
+- **GIS & Mapping:** Geemap, Leafmap, sf, Google Earth Engine
+- **Data Handling & Visualization:** Pandas, Geopandas, NumPy, Matplotlib, Seaborn, Plotly, ggplot2, Tidyverse, dplyr, Quarto, Shiny
+- **Collaboration & Workflow:** VSCode, GitHub, JupyterLab
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
-- **Email:** [Your Email](mailto:youremail@example.com)
+- **GitHub:** [Your GitHub Profile](https://github.com/ipktpz)
 
-Always open to **collaborations, ideas, and discussions** on making the world a better place! 🌎✨
+Always open to **collaborations, ideas, and discussions** on making the world a better place! 🌍✨
+
 
 
