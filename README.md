@@ -16,7 +16,7 @@ Hi! I'm Ipek, and I'm passionate about **climate action, sustainability, and dat
 
 ## 📬 Let's Connect!
 - **GitHub:** [My Github](https://github.com/ipktpz)
-
+- **Bluesky:** [My Bluesky](https://bsky.app/profile/ipktpz.bsky.social)
 Always open to **collaborations, ideas, and discussions** on making the world a better place! 🌍✨
 
 
