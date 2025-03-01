@@ -15,7 +15,7 @@ Hi! I'm Ipek, and I'm passionate about **climate action, sustainability, and dat
 - **Collaboration & Workflow:** VSCode, GitHub, JupyterLab
 
 ## 📬 Let's Connect!
-- **GitHub:** [Your GitHub Profile](https://github.com/ipktpz)
+- **GitHub:** [](https://github.com/ipktpz)
 
 Always open to **collaborations, ideas, and discussions** on making the world a better place! 🌍✨
 
